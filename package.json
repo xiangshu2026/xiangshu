@@ -1,0 +1,23 @@
+{
+  "name": "xiangshu",
+  "version": "1.0.0",
+  "description": "中式术数排盘工具（八字/梅花/六爻/小六壬/抽卡时运/二次元相性），纯前端离线",
+  "main": "js/xs-data.js",
+  "scripts": {
+    "test": "node tests/run-all.cjs",
+    "build": "node tools/build-single.cjs"
+  },
+  "keywords": [
+    "bazi",
+    "liuyao",
+    "meihua",
+    "xiaoliuren",
+    "chinese-metaphysics",
+    "offline",
+    "vanilla-js"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  }
+}

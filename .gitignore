@@ -1,0 +1,19 @@
+# 构建产物（从 Releases 下载，不进源码树）
+dist/
+
+# 开发过程文件（探索脚本，含他人信息，不发布）
+_dev-tests*/
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+*.swp
+.vscode/
+.idea/
+
+# 依赖
+node_modules/
+
+# 临时文件
+*.log
+_*.cjs

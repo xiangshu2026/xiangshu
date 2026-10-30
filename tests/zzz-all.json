@@ -1,0 +1,386 @@
+[
+ {
+  "name": "11号",
+  "gender": "女",
+  "attr": "火",
+  "bd": "3/21",
+  "spec": "强攻",
+  "star": null
+ },
+ {
+  "name": "爱丽丝·泰姆菲尔德",
+  "gender": "女",
+  "attr": "物理",
+  "bd": "8/30",
+  "spec": "异常",
+  "star": null
+ },
+ {
+  "name": "艾莲·乔",
+  "gender": "女",
+  "attr": "冰",
+  "bd": "1/4",
+  "spec": "强攻",
+  "star": null
+ },
+ {
+  "name": "爱芮",
+  "gender": "女",
+  "attr": "以太",
+  "bd": "6/7",
+  "spec": "异常",
+  "star": null
+ },
+ {
+  "name": "安比·德玛拉",
+  "gender": "女",
+  "attr": "电",
+  "bd": "2/20",
+  "spec": "击破",
+  "star": "S级"
+ },
+ {
+  "name": "安东·伊万诺夫",
+  "gender": "男",
+  "attr": "电",
+  "bd": "5/2",
+  "spec": "强攻",
+  "star": null
+ },
+ {
+  "name": "奥菲丝·马格努森",
+  "gender": null,
+  "attr": "火",
+  "bd": "11/3",
+  "spec": "强攻",
+  "star": null
+ },
+ {
+  "name": "柏妮思·怀特",
+  "gender": "女",
+  "attr": "火",
+  "bd": "5/23",
+  "spec": "异常",
+  "star": null
+ },
+ {
+  "name": "本·比格",
+  "gender": "男",
+  "attr": "火",
+  "bd": "12/23",
+  "spec": "防护",
+  "star": null
+ },
+ {
+  "name": "比利·奇德",
+  "gender": "男",
+  "attr": "物理",
+  "bd": "11/25",
+  "spec": "强攻",
+  "star": null
+ },
+ {
+  "name": "波可娜·费雷尼",
+  "gender": "女",
+  "attr": "物理",
+  "bd": "6/19",
+  "spec": "击破",
+  "star": "A级"
+ },
+ {
+  "name": "狛野真斗",
+  "gender": "男",
+  "attr": "火",
+  "bd": "1/5",
+  "spec": "命破",
+  "star": "A级"
+ },
+ {
+  "name": "苍角",
+  "gender": "女",
+  "attr": "冰",
+  "bd": "1/23",
+  "spec": "支援",
+  "star": null
+ },
+ {
+  "name": "菲欧妮·蕾法爱菈",
+  "gender": "女",
+  "attr": "火",
+  "bd": null,
+  "spec": "异常",
+  "star": null
+ },
+ {
+  "name": "冯·莱卡恩",
+  "gender": "男",
+  "attr": "冰",
+  "bd": "10/4",
+  "spec": "击破",
+  "star": null
+ },
+ {
+  "name": "浮波柚叶",
+  "gender": "女",
+  "attr": "物理",
+  "bd": "11/2",
+  "spec": "支援",
+  "star": null
+ },
+ {
+  "name": "格莉丝·霍华德",
+  "gender": "女",
+  "attr": "电",
+  "bd": "4/14",
+  "spec": "异常",
+  "star": null
+ },
+ {
+  "name": "简·杜",
+  "gender": "女",
+  "attr": "物理",
+  "bd": "2/16",
+  "spec": "异常",
+  "star": null
+ },
+ {
+  "name": "橘福福",
+  "gender": "女",
+  "attr": "火",
+  "bd": "1/6",
+  "spec": "击破",
+  "star": null
+ },
+ {
+  "name": "凯撒·金",
+  "gender": "女",
+  "attr": "物理",
+  "bd": "3/16",
+  "spec": "防护",
+  "star": null
+ },
+ {
+  "name": "克拉蕾·弗林特",
+  "gender": null,
+  "attr": "电",
+  "bd": "7/23",
+  "spec": "锋御",
+  "star": null
+ },
+ {
+  "name": "可琳·威克斯",
+  "gender": "女",
+  "attr": "物理",
+  "bd": "6/2",
+  "spec": "强攻",
+  "star": null
+ },
+ {
+  "name": "莱特(绝区零)",
+  "gender": "男",
+  "attr": "火",
+  "bd": "12/27",
+  "spec": "击破",
+  "star": "S级"
+ },
+ {
+  "name": "琉音",
+  "gender": "女",
+  "attr": "物理",
+  "bd": "5/28",
+  "spec": "击破",
+  "star": null
+ },
+ {
+  "name": "卢西娅·艾洛温",
+  "gender": "女",
+  "attr": "以太",
+  "bd": "3/17",
+  "spec": "支援",
+  "star": null
+ },
+ {
+  "name": "洛克茜·伊芙莉塔·普莱斯",
+  "gender": null,
+  "attr": "风",
+  "bd": "12/29",
+  "spec": "击破",
+  "star": null
+ },
+ {
+  "name": "猫宫又奈",
+  "gender": "女",
+  "attr": "物理",
+  "bd": "7/30",
+  "spec": "强攻",
+  "star": null
+ },
+ {
+  "name": "南宫羽",
+  "gender": "女",
+  "attr": "以太",
+  "bd": "9/29",
+  "spec": "击破",
+  "star": null
+ },
+ {
+  "name": "妮可·德玛拉",
+  "gender": "女",
+  "attr": "以太",
+  "bd": "11/11",
+  "spec": "支援",
+  "star": null
+ },
+ {
+  "name": "诺姆·霍洛维尔",
+  "gender": "女",
+  "attr": "火",
+  "bd": "7/26",
+  "spec": "击破",
+  "star": "S级"
+ },
+ {
+  "name": "派派·韦尔",
+  "gender": "女",
+  "attr": "物理",
+  "bd": "10/21",
+  "spec": "异常",
+  "star": null
+ },
+ {
+  "name": "潘引壶",
+  "gender": "男",
+  "attr": "物理",
+  "bd": "5/10",
+  "spec": "防护",
+  "star": null
+ },
+ {
+  "name": "普罗米娅",
+  "gender": "女",
+  "attr": "冰",
+  "bd": "12/23",
+  "spec": "异常",
+  "star": "S级"
+ },
+ {
+  "name": "浅羽悠真",
+  "gender": "男",
+  "attr": "电",
+  "bd": "7/19",
+  "spec": "强攻",
+  "star": "A级"
+ },
+ {
+  "name": "青衣",
+  "gender": "女",
+  "attr": "电",
+  "bd": "1/1",
+  "spec": "击破",
+  "star": null
+ },
+ {
+  "name": "赛斯·洛威尔",
+  "gender": "男",
+  "attr": "电",
+  "bd": "4/8",
+  "spec": "防护",
+  "star": "A级"
+ },
+ {
+  "name": "维琳娜·艾嘉德",
+  "gender": "女",
+  "attr": "风",
+  "bd": "9/22",
+  "spec": "异常",
+  "star": "S级"
+ },
+ {
+  "name": "薇薇安·班希",
+  "gender": "女",
+  "attr": "以太",
+  "bd": "4/10",
+  "spec": "异常",
+  "star": null
+ },
+ {
+  "name": "席德",
+  "gender": "女",
+  "attr": "电",
+  "bd": "11/22",
+  "spec": "强攻",
+  "star": null
+ },
+ {
+  "name": "希希芙",
+  "gender": "女",
+  "attr": "电",
+  "bd": "1/10",
+  "spec": "强攻",
+  "star": null
+ },
+ {
+  "name": "亚历山德丽娜·莎芭丝缇安",
+  "gender": "女",
+  "attr": "电",
+  "bd": "9/23",
+  "spec": "支援",
+  "star": null
+ },
+ {
+  "name": "耀嘉音",
+  "gender": "女",
+  "attr": "以太",
+  "bd": "1/31",
+  "spec": "支援",
+  "star": null
+ },
+ {
+  "name": "伊德海莉·墨菲",
+  "gender": "女",
+  "attr": "冰",
+  "bd": "3/19",
+  "spec": "命破",
+  "star": null
+ },
+ {
+  "name": "伊芙琳·舒瓦利耶",
+  "gender": "女",
+  "attr": "火",
+  "bd": "10/7",
+  "spec": "强攻",
+  "star": null
+ },
+ {
+  "name": "雨果·维拉德·拉文洛克",
+  "gender": "男",
+  "attr": "冰",
+  "bd": "8/20",
+  "spec": "强攻",
+  "star": null
+ },
+ {
+  "name": "月城柳",
+  "gender": "女",
+  "attr": "电",
+  "bd": "9/21",
+  "spec": "异常",
+  "star": null
+ },
+ {
+  "name": "哲",
+  "gender": "男",
+  "attr": "以太",
+  "bd": null,
+  "spec": "强攻",
+  "star": null
+ },
+ {
+  "name": "朱鸢",
+  "gender": "女",
+  "attr": "以太",
+  "bd": "9/1",
+  "spec": "强攻",
+  "star": null
+ }
+]
