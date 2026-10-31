@@ -1,3 +1,5 @@
+// 象数工坊 · 中式术数排盘（纯前端离线）
+// https://github.com/xiangshu2026/xiangshu
 /*!
  * xs-games.js —— 各游戏专属签池与保底参数（象数工坊 · 娱乐向）
  * 当前收录：明日方舟 / FGO / 绝区零 / 其他游戏

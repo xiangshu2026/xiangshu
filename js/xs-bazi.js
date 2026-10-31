@@ -1,3 +1,5 @@
+// 象数工坊 · 中式术数排盘（纯前端离线）
+// https://github.com/xiangshu2026/xiangshu
 /*!
  * xs-bazi.js —— 生辰八字排盘引擎（象数工坊）
  * 依赖：lunar.js（6tail lunar-javascript, MIT）

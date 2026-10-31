@@ -1,3 +1,5 @@
+// 象数工坊 · 中式术数排盘（纯前端离线）
+// https://github.com/xiangshu2026/xiangshu
 /*!
  * xs-avoid.js —— 「遇到凶如何避灾」（生辰八字 · 化解建议）
  *

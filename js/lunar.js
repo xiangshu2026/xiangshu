@@ -1,3 +1,5 @@
+// 象数工坊 · 中式术数排盘（纯前端离线）
+// https://github.com/xiangshu2026/xiangshu
 ;(function(root,factory){
   if (typeof define==='function'&&define.amd){
     define(factory);

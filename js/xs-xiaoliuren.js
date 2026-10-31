@@ -1,3 +1,5 @@
+// 象数工坊 · 中式术数排盘（纯前端离线）
+// https://github.com/xiangshu2026/xiangshu
 /*!
  * xs-xiaoliuren.js —— 小六壬（六宫掐指）引擎（象数工坊）
  * 六宫：大安、留连、速喜、赤口、小吉、空亡

@@ -1,3 +1,5 @@
+// 象数工坊 · 中式术数排盘（纯前端离线）
+// https://github.com/xiangshu2026/xiangshu
 /*!
  * xs-pool.js —— 「我这期卡池的抽卡运气」
  *

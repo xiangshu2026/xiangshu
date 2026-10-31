@@ -1,3 +1,5 @@
+// 象数工坊 · 中式术数排盘（纯前端离线）
+// https://github.com/xiangshu2026/xiangshu
 /*!
  * xs-chars.js —— 内置角色名单（二次元相性 · 仅女性角色）
  *

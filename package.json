@@ -19,5 +19,13 @@
   "license": "MIT",
   "engines": {
     "node": ">=16"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiangshu2026/xiangshu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xiangshu2026/xiangshu/issues"
+  },
+  "homepage": "https://github.com/xiangshu2026/xiangshu#readme"
 }

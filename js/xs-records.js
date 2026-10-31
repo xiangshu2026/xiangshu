@@ -1,3 +1,5 @@
+// 象数工坊 · 中式术数排盘（纯前端离线）
+// https://github.com/xiangshu2026/xiangshu
 /*!
  * xs-records.js —— 抽卡记录 / 连歪计数器 / 保底进度 / 每日待办提醒（象数工坊 · 娱乐向）
  * 纯逻辑，存储通过 store 注入（浏览器用 localStorage，测试可传假存储）

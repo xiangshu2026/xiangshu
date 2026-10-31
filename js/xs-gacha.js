@@ -1,3 +1,5 @@
+// 象数工坊 · 中式术数排盘（纯前端离线）
+// https://github.com/xiangshu2026/xiangshu
 /*!
  * xs-gacha.js —— 今日游戏抽卡时运（象数工坊 · 娱乐向）
  *

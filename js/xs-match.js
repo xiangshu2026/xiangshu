@@ -1,3 +1,5 @@
+// 象数工坊 · 中式术数排盘（纯前端离线）
+// https://github.com/xiangshu2026/xiangshu
 /*!
  * xs-match.js —— 「我和二次元角色」相性合盘（象数工坊 · 娱乐向）
  *

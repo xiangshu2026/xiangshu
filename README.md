@@ -1,5 +1,13 @@
 # 象数工坊
 
+[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
+[![Tests](https://img.shields.io/badge/tests-102%20passed-brightgreen)](tests/)
+[![Offline](https://img.shields.io/badge/runtime-offline%20%2F%20no%20network-success)](#)
+[![Vanilla JS](https://img.shields.io/badge/vanilla-js-yellow)](https://developer.mozilla.org/docs/Web/JavaScript)
+
+> 原仓库：https://github.com/xiangshu2026/xiangshu
+> 如果你是从别处下载的，建议回原仓库获取最新版与 issue 支持。
+
 一个完全离线的传统历法推算工具。**双击就能用，不用安装、不用联网、不上传任何数据。**
 
 支持七个模块：四柱历法 · 卦象推演 · 六爻纳甲 · 小六壬 · 时辰规则引擎 · 合盘计算 · 口径说明。
