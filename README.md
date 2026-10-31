@@ -1,7 +1,7 @@
 # 象数工坊
 
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
-[![Tests](https://img.shields.io/badge/tests-102%20passed-brightgreen)](tests/)
+[![tests](https://github.com/xiangshu2026/xiangshu/actions/workflows/tests.yml/badge.svg)](https://github.com/xiangshu2026/xiangshu/actions/workflows/tests.yml)
 [![Offline](https://img.shields.io/badge/runtime-offline%20%2F%20no%20network-success)](#)
 [![Vanilla JS](https://img.shields.io/badge/vanilla-js-yellow)](https://developer.mozilla.org/docs/Web/JavaScript)
 

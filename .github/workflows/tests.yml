@@ -1,0 +1,33 @@
+name: tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node: [18, 20, 22]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node ${{ matrix.node }}
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node }}
+
+      - name: Run tests
+        run: node tests/run-all.cjs
+
+      - name: Build single-file bundle
+        run: node tools/build-single.cjs
+
+      - name: Verify bundle exists
+        run: |
+          test -f "dist/象数工坊-单文件版.html" && echo "bundle OK" || (echo "bundle missing" && exit 1)
