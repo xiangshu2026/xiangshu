@@ -1,6 +1,6 @@
 /* 把 index.html + css + 各 js 打包为单文件 HTML（便于拷到手机/发送） */
 const fs = require('fs'), path = require('path');
-const root = __dirname + '\\..';
+const root = path.resolve(__dirname, '..');
 const html = fs.readFileSync(path.join(root, 'index.html'), 'utf8');
 const files = ['js/lunar.js','js/xs-data.js','js/xs-bazi.js','js/xs-daily.js','js/xs-avoid.js','js/xs-meihua.js','js/xs-liuyao.js','js/xs-xiaoliuren.js','js/xs-games.js','js/xs-gacha.js','js/xs-records.js','js/xs-prob.js','js/xs-match.js','js/xs-chars.js','js/xs-pool.js','js/xs-interp.js','js/app.js'];
 let out = html;
