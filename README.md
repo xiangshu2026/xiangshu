@@ -152,6 +152,8 @@ npm run build     # 重新打包单文件版
 
 ## 许可
 
-MIT License。第三方组件许可见 [vendor/LICENSE-lunar-javascript](vendor/LICENSE-lunar-javascript)。
+MIT License。第三方组件许可见 [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md)。
+
+> 根目录 `LICENSE` 保持标准 MIT 模板逐字完整（不含任何追加内容），这样 GitHub 才能正确识别为 MIT。第三方声明单独放在上面那个文件里。
 
 术数内容供传统文化研究与个人参考使用。

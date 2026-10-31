@@ -17,3 +17,7 @@ node_modules/
 # 临时文件
 *.log
 _*.cjs
+
+# 本地备份（不进 git）
+*.bak-before-*
+*.bak-*
